@@ -17,5 +17,10 @@ Hello! We are happy to share with you the instructions and design files to build
 
 ## Building Steps
 ### 1. Laser Cutting
+Open the .dxf or the .3dm (for Rhino's users) and select all the objects to print. The current design file has 3 different layer according to the type of cut (cut, etch a surface, draw a line). 
+
+If you need some help with laser cutting, have a look at the great article by the [Maker Design Lab: "Hot to Get Started with Laser Cutting"](https://makerdesignlab.com/tutorials-tips/laser-cutting-beginners-guide/). It will give you all the necessary background! 
+
 ### 2. Assemblage
+
 
