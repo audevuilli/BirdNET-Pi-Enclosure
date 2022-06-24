@@ -30,3 +30,25 @@ If you need some help with laser cutting, have a look at the great article by th
 1. Screw the cable gland on the side of the plastic enclosure, the longer part towards the outside.
 
 ![image_1](/images/enclosure_step1.png)
+![image_2](/images/enclosure_step2.png)
+
+2. Pass the microphone through the cable gland, the microphone head should be outside of the plastic box. Then, pass the USB cable with the USB C connector towards the inside of the plastic box. Make sure the cable gland is tight.
+
+![image_3](/images/enclosure_step3.png)
+![image_4](/images/enclosure_step4.png)
+
+3. Cut a piece of double-sided tape and add it along the back of the RPi Enclosure. Stick the enclosure in the plastic box with both microphone and power cable already connected to the RPi. 
+
+![image_5](/images/enclosure_step5.png)
+
+4. Take the remaining part of the power cable and pass it through the hole in the back of the bird. Cut a piece of double-sided tape and add it along the back of the plastic box. Stick the bottom of plastic box to the back of the bird.
+
+![image_6](/images/enclosure_step6.png)
+
+5. Along the edge of the bird's back, make a thin line of wood glue. Take the bird's edge and place it around it, in the little holes. Press on it a little bit to allow to dry.
+
+![image_7](/images/enclosure_step7.png)
+
+Close the plastic box. Pass through the little hole of the bird's face the microphone head. Position the bird's face and add the bird's pick. Well done!! You can take it outdoor and listen to the birds! 
+
+![image_8](/images/enclosure_step8.png)
