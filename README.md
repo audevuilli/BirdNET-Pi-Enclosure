@@ -6,7 +6,7 @@ Hello! We are happy to share with you the instructions and design files to build
 
 - A fun designed enclosure that has been inspired by "AngryBirds". 
 - Host your RPi and microphone. Nice enclosure to have in your garden or on your balcony. 
-- Contribute to the BirdNET-Pi's community and thank Patrick for his work and everyone else for all the helpful pieces of advice. 
+- Contribute to the [BirdNET-Pi](https://github.com/mcguirepr89/BirdNET-Pi)'s community and thank [@Patrick](https://github.com/mcguirepr89) for his work and everyone else for all the helpful pieces of advice. 
 
 ## List of Materials - BOM
 - RPi with BirdNET-Pi installed.
